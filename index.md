@@ -1,4 +1,4 @@
 ---
 title: hello eorld!
-where does this appear
+body: where does this appear
 ---
