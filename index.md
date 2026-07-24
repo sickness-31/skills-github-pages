@@ -1,4 +1,3 @@
 ---
-title: hello world!
-body: where does this appear
+title: VO!D
 ---
